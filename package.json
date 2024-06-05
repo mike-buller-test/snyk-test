@@ -10,7 +10,7 @@
     "url": "https://github.com/excalidraw/excalidraw"
   },
     "dependencies": {
-    "flux": "^2.1.1",
+    "flux": "^4.0.1",
     "invariant": "^2.2.1",
     "object-assign": "^4.1.0"
   },
